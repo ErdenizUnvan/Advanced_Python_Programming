@@ -1,0 +1,1 @@
+Pozitif ya da negatif integer sayının tersinin negatifini yazdıran fonksiyon üret.

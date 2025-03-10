@@ -1,0 +1,27 @@
+
+GBP1R31> st RncFunction=1,IubLink=Iub_
+
+210407-11:43:26 10.194.23.160 21.0a RNC_NODE_MODEL_V_17_664 stopfile=/tmp/27258
+===================================================================================
+Proxy  Adm State     Op. State     MO
+===================================================================================
+31010  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BAYKC
+27219  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BAYKCR
+32042  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BAYTL
+33734  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BAYTLR
+32104  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BAYZO
+39837  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BAYZOR
+14546  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BYHEG
+ 9709  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_BYHEGR
+26773  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_CAICD
+75184  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_CAICDQ
+75187  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_CAICDR
+39589  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_CAYEC
+32831  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_CAYECR
+39845  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,IubLink=Iub_CAYRD
+
+===================================================================================
+
+GBP1R31> q
+Bye...
+Output has been logged to file /home/shared/EUNVAN/script/lisans_alarm_hgenm_nodeb/lisans/rnc_log/GBP1R31.log

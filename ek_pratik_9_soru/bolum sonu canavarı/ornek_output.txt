@@ -1,0 +1,139 @@
+1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : -1
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 4
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : tahta
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : $  312  dwed ed
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 1
+1 ile 100 arasında bir sayı giriniz.101
+yanlis secim
+1 ile 100 arasında bir sayı gir oyunu oynamak icin ya da ana menu icin ESC yaz.Esc
+ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 1
+1 ile 100 arasında bir sayı giriniz.500
+yanlis secim
+1 ile 100 arasında bir sayı gir oyunu oynamak icin ya da ana menu icin ESC yaz.50
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.25
+Daha büyük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.35
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.30
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.27
+Bingo. 5 adet hak kullanarak sayıyı bildiniz:27.
+Yeniden oynamak icin E yaz ya da cikis icin ESC :odun
+Yanlis secim yaptin. Sadece E ya da C yaz
+Yeniden oynamak icin E yaz ya da cikis icin ESC :E
+devam
+1 ile 100 arasında bir sayı giriniz.50
+Daha büyük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.65
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.60
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.58
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.57
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.56
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.55
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.54
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.53
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.52
+Bingo. 10 adet hak kullanarak sayıyı bildiniz:52.
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Yes
+Yanlis secim yaptin. Sadece E ya da C yaz
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Esc
+Ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 2
+
+	Insan VS Bilgisayar
+
+Silahini sec: Tas, Kagit, Makas
+Odun
+Yanlis Secim
+
+Silahini sec: Tas, Kagit, Makas
+ ya da cikis icin ESC yaz: Esc
+ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 2
+
+	Insan VS Bilgisayar
+
+Silahini sec: Tas, Kagit, Makas
+Tas
+tas  vs  tas
+Berabere!
+
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Yesss
+Yanlis secim yaptin. Sadece E ya da C yaz
+Yeniden oynamak icin E yaz ya da cikis icin ESC :E
+devam
+
+Silahini sec: Tas, Kagit, Makas
+Kagit
+Kagit cevreler tas . Kazandin!
+
+Yeniden oynamak icin E yaz ya da cikis icin ESC :E
+devam
+
+Silahini sec: Tas, Kagit, Makas
+Makas
+makas  vs  tas
+Tas makasi ezer! Kaybettin!
+
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Esc
+Ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 3
+Çıkış yapılıyor...

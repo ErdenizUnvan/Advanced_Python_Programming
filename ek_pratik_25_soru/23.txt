@@ -1,0 +1,2 @@
+Crerate a function that sorts an array of positive integers such that all odd numbers come first and even  numbers follow.
+Both the odd numbers and the even numbers should be sorted in increasing order

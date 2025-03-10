@@ -1,0 +1,71 @@
+ornek_output.txt dosyasini dikkatlice inceleyin.
+
+kodunuz o sekilde calismali.
+
+Kod nasil yazilacak?
+
+menu fonksiyonu olustur
+
+1: Sayı Tahmin Oyunu,
+2: Taş, Kağıt, Makas Oyunu,
+3: Çıkış 
+
+diye menu fonksiyonu print versin
+
+Calisma sekli:
+
+1,2,3 disinda herhangi bir secenek secilemesin. Eger yazilirsa menu secenegi yeniden sunulsun
+
+code_output.txt dosyasinda oldugu gibi
+
+Taş, Kağıt, Makas Oyunu fonksiyonu olustur
+while True icinde try, except, else
+birden fazla donguyu flag ile kullan
+Kullanici tas, kagit, makas disinda bir sey secerse: yanlis secim de ayni soruyu tekrar sor ve ana menuye donme imkani ekle
+ana menuye donmek isterse; donsun
+dogru secim yaparsa oyuna devam etsin
+baska bir sey secerse ayni soruyu tekrar sor
+bilgisayar silahini otomatik secer her seferinde
+insan ise input ile
+Tas, tas berabere
+Kagit, kagit beraber
+Makas, makas berabere
+Tas, makasi yener
+Kagit, tasi yener
+Makas, kagidi yener
+insan ne secti, bilgisayar ne secti. her seferinde kim kazandi, acikla
+oyun bittiginde ayni oyunu tekrar oynamak istiyor mu diye sor
+evet ise yeniden oynasin: kendi fonksiyonunu yeniden calistir
+esc ile ana menuye donsun
+baska bir sey secerse ayni soruyu tekrar sor
+
+Sayı Tahmin Oyunu fonksiyonu olustur
+
+while True icinde try, except, else
+birden fazla donguyu flag ile kullan
+Kullanici 1-100 disinda bir sayi ya da herhangi bir sey secerse: yanlis secim de ayni soruyu tekrar sor ve ana menuye donme imkani ekle
+ana menuye donmek isterse; donsun
+dogru secim yaparsa oyuna devam etsin
+baska bir sey secerse ayni soruyu tekrar sor
+bilgisayar sayiyi otomatik secer her seferinde
+insan ise sayiyi input ile tahmin etmeye calisir
+tahmin> sayi: tahminin buyuk sayidan. dusuk degerde tahmin yap
+tahmin< sayi: tahminin kucuk sayidan. yuksek degerde tahmin yap
+tahmin=sayi esit: kazandin. oyun bitti kac hak kullanarak kazandin acikla
+oyun bittiginde ayni oyunu tekrar oynamak istiyor mu diye sor
+evet ise yeniden oynasin: kendi fonksiyonunu yeniden calistir
+esc ile ana menuye donsun
+baska bir sey secerse ayni soruyu tekrar sor
+
+3 fonksiyonu kullanmak icin oyun algoritmasi yap
+while True icinde try, except, else
+try da kullanici secimini al, 1-2-3 disi icin raise Value Error kullan
+exception da yeniden denet
+else icinde if elif kullan 1,2,3 icin
+
+1: Sayı Tahmin Oyunu,
+2: Taş, Kağıt, Makas Oyunu,
+3: Çıkış 
+
+Bu outputu chatgpt'ye ve google bard'a verdim. Yazdiklari kod benimkinden daha basit ama istediklerimi yapamiyor. 2 oyun bitince de yeniden oynamak ister misin ya da cikmak ister misin diye soramiyor. Direk ana menuye donuyor sayi tahminde. tas kagit makas oyununda ise kazaninca tekrardan direk secim yaptiriyor oynamak ister misin evet/hayir demeden.
+Ben ornek_output.txt  nasilsa onu saglayacak kodu istiyorum.

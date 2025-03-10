@@ -1,0 +1,133 @@
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : -1
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 4
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz :  #1abc 
+Hatali seçim
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 1
+1 ile 100 arasında bir sayı giriniz.101
+yanlis secim
+1 ile 100 arasında bir sayı gir oyunu oynamak icin ya da ana menu icin ESC yaz.Esc
+ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 1
+1 ile 100 arasında bir sayı giriniz.-1
+yanlis secim
+1 ile 100 arasında bir sayı gir oyunu oynamak icin ya da ana menu icin ESC yaz. $1 3a
+yanlis secim
+1 ile 100 arasında bir sayı gir oyunu oynamak icin ya da ana menu icin ESC yaz.50
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.25
+Daha büyük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.35
+Bingo. 3 adet hak kullanarak sayıyı bildiniz:35.
+Yeniden oynamak icin E yaz ya da cikis icin ESC :tahta
+Yanlis secim yaptin. Sadece E ya da C yaz
+Yeniden oynamak icin E yaz ya da cikis icin ESC :e
+devam
+1 ile 100 arasında bir sayı giriniz.50
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.25
+Daha büyük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.35
+Bingo. 6 adet hak kullanarak sayıyı bildiniz:35.
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Esc
+Ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 1
+1 ile 100 arasında bir sayı giriniz.50
+Daha küçük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.25
+Daha büyük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.35
+Daha büyük değerde tahminde bulunun
+1 ile 100 arasında bir sayı giriniz.45
+Bingo. 4 adet hak kullanarak sayıyı bildiniz:45.
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Esc
+Ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 2
+
+	Insan VS Bilgisayar
+
+Silahini sec: Tas, Kagit, Makas
+tahta
+Yanlis Secim
+
+Silahini sec: Tas, Kagit, Makas
+ ya da cikis icin ESC yaz: Esc
+ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 2
+
+	Insan VS Bilgisayar
+
+Silahini sec: Tas, Kagit, Makas
+Tas
+tas  vs  tas
+Berabere!
+
+Yeniden oynamak icin E yaz ya da cikis icin ESC :YES
+Yanlis secim yaptin. Sadece E ya da C yaz
+Yeniden oynamak icin E yaz ya da cikis icin ESC :e
+devam
+
+Silahini sec: Tas, Kagit, Makas
+kagit
+kagit  vs  kagit
+Berabere!
+
+Yeniden oynamak icin E yaz ya da cikis icin ESC :tahta
+Yanlis secim yaptin. Sadece E ya da C yaz
+Yeniden oynamak icin E yaz ya da cikis icin ESC :e
+devam
+
+Silahini sec: Tas, Kagit, Makas
+Makas
+makas  vs  makas
+Berabere!
+
+Yeniden oynamak icin E yaz ya da cikis icin ESC :Esc
+Ana menu
+
+    1: Sayı Tahmin Oyunu,
+    2: Taş, Kağıt, Makas Oyunu,
+    3: Çıkış 
+    
+Seçiminiz : 3
+Çıkış yapılıyor...
